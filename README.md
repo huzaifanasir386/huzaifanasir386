@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzaifanasir386
 - 👀 I’m interested in Web and Mobile app development
-- 🌱 I’m currently learning Flutter from iOS and Android development
+- 🌱 I’m currently learning Flutter and Dart Language
 - 💞️ I’m looking to collaborate on Reactjs based projects
 - 📫 How to reach me: contact me on following:
       Email: huzaifanasir386@gmail.com
