@@ -1,4 +1,4 @@
-Hi, I’m @huzaifanasir386!
+Hi, I’m Muhammad Huzaifa Nasir
 
 I am a passionate software developer with a goal to always get better. I have 2+ years of experience as a frontend developer. I have worked with multiple Software Companies on different technologies.
 My Expertise lies in Web application development in ReactJS and Redux. I have worked on Flutter as well.
