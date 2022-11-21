@@ -4,6 +4,9 @@ I am a passionate software developer with a goal to always get better. I have 2+
 My Expertise lies in Web application development in ReactJS and Redux. I have worked on Flutter as well.
 
 How to reach me: contact me on following:
+
       Email: huzaifanasir386@gmail.com
+      
       upwork: https://www.upwork.com/freelancers/~01699e552aa6814bcc
+      
       linkedIn: https://www.linkedin.com/in/huzaifanasir386/
